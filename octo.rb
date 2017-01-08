@@ -2,5 +2,3 @@
 
 #An "octothorpe" or a Hash Symbol is stating a comment
 puts "Hello My name is Gwapo"+"\nGwapo Pero Di kayo"
-
- 
